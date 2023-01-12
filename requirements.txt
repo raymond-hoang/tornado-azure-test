@@ -1,3 +1,0 @@
-passlib==1.7.2
-tornado==6.0.4
-cryptography
